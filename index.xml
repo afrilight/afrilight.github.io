@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Afrilight Consulting</title>
+    <link>https://www.afrilight.ca/</link>
+    <description>Recent content on Afrilight Consulting</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://www.afrilight.ca/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Contacts</title>
+      <link>https://www.afrilight.ca/contacts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.afrilight.ca/contacts/</guid>
+      <description>Sékou Tidiane Coulibaly  s.coulibaly@afrilightconsulting.com   Ousmane Coulibaly  o.coulibaly@afrilightconsulting.com</description>
+    </item>
+    
+    <item>
+      <title>Partners</title>
+      <link>https://www.afrilight.ca/partners/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.afrilight.ca/partners/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://www.afrilight.ca/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.afrilight.ca/services/</guid>
+      <description>The overarching theme of our service is in the unique point of contact we offer to our clients to assist in their project in the country. Our service differs depending on the client and the project : we can work and devellop green field projects and we can provide assistance on brown field projects (research of new funds, help in government relations, &amp;hellip;)</description>
+    </item>
+    
+  </channel>
+</rss>
